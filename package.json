@@ -1,0 +1,8 @@
+{
+  "name": "filter-map-reduce",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/MateusKawazoe/filter-map-reduce.git",
+  "author": "Mateuskwz <Matkawazoe@gmail.com>",
+  "license": "MIT"
+}
